@@ -6,7 +6,7 @@ Since owning my first Commodore-64 I've  never stopped studying new
 technologies, developing unconventional attack vectors and exploring what makes
 things tick...and break.
 
-![lcars](https://github.com/abarisani/abarisani/blob/main/me.png)
+<img src="https://github.com/abarisani/abarisani/blob/main/me.png" width="500">
 
 ## Links
 
