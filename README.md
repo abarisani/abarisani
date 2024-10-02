@@ -28,5 +28,4 @@ You can [sponsor my open source work](https://github.com/sponsors/abarisani)!
 
 ## Contacts
 
-`andrea@inversepath.com` | PGP/GPS key: [0x864C9B9E](https://andrea.bio/gpg-andrea.txt)  
-[@abarisani](https://twitter.com/andreabarisani) | [@lcars@infosec.exchange](https://infosec.exchange/@lcars)  
+`andrea@inversepath.com` | PGP/GPS key: [0x864C9B9E](https://andrea.bio/gpg-andrea.txt) | [@abarisani](https://twitter.com/andreabarisani) | [@lcars@infosec.exchange](https://infosec.exchange/@lcars)  
