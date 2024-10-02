@@ -1,16 +1,32 @@
-## Hi there 👋
+## Introduction
 
-<!--
-**abarisani/abarisani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I am an internationally recognized security researcher.
 
-Here are some ideas to get you started:
+Since owning my first Commodore-64 I've  never stopped studying new
+technologies, developing unconventional attack vectors and exploring what makes
+things tick...and break.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![lcars](https://github.com/abarisani/abarisani/me.png)
+
+## Links
+
+* [Personal site](https://andrea.bio/)
+* [Research projects](https://github.com/abarisani/abarisani.github.io/tree/master/research)
+
+## Main projects
+
+I am a security architect mainly known for the following projects:
+
+* [TamaGo](https://github.com/usbarmory/tamago) - ARM/RISC-V bare metal Go
+* [USB armory](https://github.com/usbarmory/usbarmory) - open source flash-drive-sized computer
+* [GoTEE](https://github.com/usbarmory/GoTEE) - Go Trusted Execution Environment
+* [GoKey](https://github.com/usbarmory/GoKey) - The bare metal Go smart card
+* [crucible](https://github.com/usbarmory/crucible) - OTP fusing tool
+* [tenshi](https://github.com/f-secure-foundry/tenshi) - log monitoring tool
+
+You can [sponsor my open source work](https://github.com/sponsors/abarisani)!
+
+## Contacts
+
+`andrea@inversepath.com` | PGP/GPS key: [0x864C9B9E](https://andrea.bio/gpg-andrea.txt)  
+[@abarisani](https://twitter.com/andreabarisani) | [@lcars@infosec.exchange](https://infosec.exchange/@lcars)  
