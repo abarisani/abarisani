@@ -23,7 +23,7 @@ things tick...and break.
 * [crucible](https://github.com/usbarmory/crucible) - OTP fusing tool
 * [tenshi](https://github.com/f-secure-foundry/tenshi) - log monitoring tool
 
-<iframe src="https://github.com/sponsors/abarisani/button" title="Sponsor abarisani" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/abarisani)
 
 ## Contacts
 
