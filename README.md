@@ -12,10 +12,9 @@ things tick...and break.
 
 * [Personal site](https://andrea.bio/)
 * [Research projects](https://github.com/abarisani/abarisani.github.io/tree/master/research)
+* [Open source](https://github.com/usbarmory)
 
 ## Main projects
-
-I am a security architect mainly known for the following projects:
 
 * [TamaGo](https://github.com/usbarmory/tamago) - ARM/RISC-V bare metal Go
 * [USB armory](https://github.com/usbarmory/usbarmory) - open source flash-drive-sized computer
@@ -24,7 +23,7 @@ I am a security architect mainly known for the following projects:
 * [crucible](https://github.com/usbarmory/crucible) - OTP fusing tool
 * [tenshi](https://github.com/f-secure-foundry/tenshi) - log monitoring tool
 
-You can [sponsor my open source work](https://github.com/sponsors/abarisani)!
+<iframe src="https://github.com/sponsors/abarisani/button" title="Sponsor abarisani" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 ## Contacts
 
