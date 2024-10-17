@@ -25,4 +25,4 @@ things tick...and break.
 
 ## Contacts
 
-`andrea@inversepath.com` | PGP/GPS key: [0x864C9B9E](https://andrea.bio/gpg-andrea.txt) | [@abarisani](https://twitter.com/andreabarisani) | [@lcars@infosec.exchange](https://infosec.exchange/@lcars)  
+`andrea@inversepath.com` | PGP/GPG key: [0x864C9B9E](https://andrea.bio/gpg-andrea.txt) | [@abarisani](https://twitter.com/andreabarisani) | [@lcars@infosec.exchange](https://infosec.exchange/@lcars)  
