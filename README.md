@@ -14,7 +14,7 @@ things tick...and break.
 
 ## Main projects
 
-* [TamaGo](https://github.com/usbarmory/tamago) - ARM/RISC-V bare metal Go
+* [TamaGo](https://github.com/usbarmory/tamago) - bare metal Go
 * [USB armory](https://github.com/usbarmory/usbarmory) - open source flash-drive-sized computer
 * [GoTEE](https://github.com/usbarmory/GoTEE) - Go Trusted Execution Environment
 * [GoKey](https://github.com/usbarmory/GoKey) - The bare metal Go smart card
