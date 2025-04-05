@@ -16,8 +16,9 @@ things tick...and break.
 
 * [TamaGo](https://github.com/usbarmory/tamago) - bare metal Go
 * [USB armory](https://github.com/usbarmory/usbarmory) - open source flash-drive-sized computer
+* [go-boot](https://github.com/usbarmory/go-boot) - bare metal Go UEFI boot manager
 * [GoTEE](https://github.com/usbarmory/GoTEE) - Go Trusted Execution Environment
-* [GoKey](https://github.com/usbarmory/GoKey) - The bare metal Go smart card
+* [GoKey](https://github.com/usbarmory/GoKey) - bare metal Go smart card
 * [crucible](https://github.com/usbarmory/crucible) - OTP fusing tool
 * [tenshi](https://github.com/f-secure-foundry/tenshi) - log monitoring tool
 
