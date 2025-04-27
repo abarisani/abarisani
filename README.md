@@ -17,10 +17,10 @@ things tick...and break.
 * [TamaGo](https://github.com/usbarmory/tamago) - bare metal Go
 * [USB armory](https://github.com/usbarmory/usbarmory) - open source flash-drive-sized computer
 * [go-boot](https://github.com/usbarmory/go-boot) - bare metal Go UEFI boot manager
-* [GoTEE](https://github.com/usbarmory/GoTEE) - Go Trusted Execution Environment
 * [GoKey](https://github.com/usbarmory/GoKey) - bare metal Go smart card
+* [GoTEE](https://github.com/usbarmory/GoTEE) - Go Trusted Execution Environment
 * [crucible](https://github.com/usbarmory/crucible) - OTP fusing tool
-* [tenshi](https://github.com/f-secure-foundry/tenshi) - log monitoring tool
+* [tenshi](https://github.com/inversepath/tenshi) - log monitoring tool
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/abarisani)
 
