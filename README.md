@@ -30,4 +30,4 @@ things tick...and break.
 
 ## Social
 
-[Bluesky](https://bsky.app/profile/andreabarisani.bsky.social) | [Mastodont](https://infosec.exchange/@lcars) | [𝕏](https://twitter.com/andreabarisani) | [Linkedin](www.linkedin.com/in/lcars) | [Instagram](https://www.instagram.com/bakkumira)
+[Bluesky](https://bsky.app/profile/andreabarisani.bsky.social) | [Mastodont](https://infosec.exchange/@lcars) | [𝕏](https://twitter.com/andreabarisani) | [Linkedin](https://www.linkedin.com/in/lcars) | [Instagram](https://www.instagram.com/bakkumira)
