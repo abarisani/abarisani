@@ -21,8 +21,8 @@ OPEN SOURCE
  Armory Boot  ──────┘             ┌────────┐    ┌─ amd64 ──┘       ┄┄┄┄┄┄┄┄┄┄┄
  Armory Drive ──────┘ ─── arm ────┤ TAMAGO ├────┼─ arm64           ┆ocert.org┆
  Armored Witness ───┘     ─┬─     └────────┘    └─ riscv64         ┆ tenshi  ┆
-                           └─────── GoTEE ──────┐  ───┬───         ┆ ftester ┆
-                                                └─────┘            ┄┄┄┄┄┄┄┄┄┄┄
+                           │                       ───┬───         ┆ ftester ┆
+                           └─────── GoTEE ────────────┘            ┄┄┄┄┄┄┄┄┄┄┄
 ```
 
 ## Introduction
