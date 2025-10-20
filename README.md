@@ -1,3 +1,30 @@
+```
+EXPERTISE
+───────────────────────────────────────────────────────────────────────────────
+┌──────────┐                                          ┌───────────┬─────────┐
+│ HARDWARE ├───┐            ┌───────────── research → │   RDS-TMC │ TEMPEST │█
+└──────────┘   │            │                         │ 802.3 PIP │ EMV     │█
+┌──────────┐   │  ░░░░░░░░  ├── penetration testing   └─────────────────────┘█
+│ FIRMWARE ├───┼─ SECURITY ─┤                           ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+└──────────┘   │  ░░░░░░░░  ├──────── code auditing
+┌──────────┐   │            │                         ┌────────────┬────────┐
+│ SOFTWARE ├───┘            └────────── engineering → │ USB ARMORY │ TAMAGO │█
+└──────────┘                                          └─────────────────────┘█
+                                                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+OPEN SOURCE
+───────────────────────────────────────────────────────────────────────────────
+
+┌────────────┐ ┌─ MK I ──┐  ┌─ crucible   ┌ mxc-scc2       boot-transparency ─┐
+│ USB ARMORY ├─┐         ├──┘             ┌ mxs-dcp                           │
+└────────────┘ └─ MK II ─┘  └─ interlock ─┴ caam-keyblob   ┌──────── go-boot ─┘
+                    │                                      │
+ Armory Boot  ──────┘             ┌────────┐    ┌─ amd64 ──┘       ┄┄┄┄┄┄┄┄┄┄┄
+ Armory Drive ──────┘ ─── arm ────┤ TAMAGO ├────┼─ arm64           ┆ocert.org┆
+ Armored Witness ───┘     ─┬─     └────────┘    └─ riscv64         ┆ tenshi  ┆
+                           └─────── GoTEE ──────┐  ───┬───         ┆ ftester ┆
+                                                └─────┘            ┄┄┄┄┄┄┄┄┄┄┄
+```
+
 ## Introduction
 
 Hi there, I am an internationally recognized security researcher.
