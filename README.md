@@ -40,7 +40,7 @@ OPEN SOURCE
 2025/05 → Head of Security Engineering        Reversec ┤   foundry.reversec.com
 2022/03 → Head of Product Security          WithSecure ┤ foundry withsecure.com
 2017/02 → Head of Hardware Security           F-Secure ┤   foundry f-secure.com
-2017/02 → 🮙🮙🮙🮙🮙🮙🮙 Inverse Path is acquired by F-Secure │ 🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘
+2017/02 → ▒▒▒▒▒▒▒ Inverse Path is acquired by F-Secure │ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 FOUNDATION
 ───────────────────────────────────────────────────────┬───────────────────────
