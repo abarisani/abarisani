@@ -1,3 +1,15 @@
+## Introduction
+
+Hi there, I am an internationally recognized security researcher.
+
+Since owning my first Commodore-64 I've  never stopped studying new
+technologies, developing unconventional attack vectors and exploring what makes
+things tick...and break.
+
+https://andrea.bio
+
+## Datasheet
+
 ```
 EXPERTISE
 ───────────────────────────────────────────────────────────────────────────────
@@ -23,15 +35,26 @@ OPEN SOURCE
  Armored Witness ───┘     ─┬─     └────────┘    └─ riscv64         ┆ tenshi  ┆
                            │                       ───┬───         ┆ ftester ┆
                            └─────── GoTEE ────────────┘            ┄┄┄┄┄┄┄┄┄┄┄
+かいしゃ
+───────────────────────────────────────────────────────┬───────────────────────
+2025/05 → Head of Security Engineering        Reversec ┤   foundry.reversec.com
+2022/03 → Head of Product Security          WithSecure ┤ foundry withsecure.com
+2017/02 → Head of Hardware Security           F-Secure ┤   foundry f-secure.com
+2017/02 → 🮙🮙🮙🮙🮙🮙🮙 Inverse Path is acquired by F-Secure │ 🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘🮘
+
+FOUNDATION
+───────────────────────────────────────────────────────┬───────────────────────
+2005/11 → Co-Founder                      Inverse Path ┤        inversepath.com
+
+MISC
+───────────────────────────────────────────────────────────────────────────────
+Co-Founder • Open Source CSIRT • ocert.org                  ← 2008/03 - 2017/08
+Researcher • University of Trieste, Department of Astronomy ← 2005/06 - 2007/12
+UNIX Programming Consultant • London Internet Exchange      ← 2004/11 - 2004/12
+Infrastructure Developer • Gentoo Linux                     ← 2003/07 - 2006/02
+UNIX Security Engineer • Live Network Security              ← 2001/10 - 2005/10
+Sysadmin and Security Officer • NE&T, Webtechna             ← 2000/11 - 2001/07
 ```
-
-## Introduction
-
-Hi there, I am an internationally recognized security researcher.
-
-Since owning my first Commodore-64 I've  never stopped studying new
-technologies, developing unconventional attack vectors and exploring what makes
-things tick...and break.
 
 ## Links
 
