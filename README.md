@@ -29,10 +29,10 @@ OPEN SOURCE
 ┌────────────┐ ┌─ MK I ──┐  ┌─ crucible   ┌ mxc-scc2       boot-transparency ─┐
 │ USB ARMORY ├─┐         ├──┘             ┌ mxs-dcp                           │
 └────────────┘ └─ MK II ─┘  └─ interlock ─┴ caam-keyblob   ┌──────── go-boot ─┘
-                    │                                      │
- Armory Boot  ──────┘             ┌────────┐    ┌─ amd64 ──┘       ┄┄┄┄┄┄┄┄┄┄┄
- Armory Drive ──────┘ ─── arm ────┤ TAMAGO ├────┼─ arm64           ┆ocert.org┆
- Armored Witness ───┘     ─┬─     └────────┘    └─ riscv64         ┆ tenshi  ┆
+                    │                                      │ ┌────── kotama
+ Armory Boot  ──────┘             ┌────────┐    ┌─ amd64 ──┘ │
+ Armory Drive ──────┘ ─── arm ────┤ TAMAGO ├────┼─ arm64     │     ┄┄┄┄┄┄┄┄┄┄┄
+ Armored Witness ───┘     ─┬─     └────────┘    └─ riscv64 ──┘     ┆ tenshi  ┆
                            │                       ───┬───         ┆ ftester ┆
                            └─────── GoTEE ────────────┘            ┄┄┄┄┄┄┄┄┄┄┄
 かいしゃ
